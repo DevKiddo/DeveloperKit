@@ -1,4 +1,6 @@
 DeveloperKit
 =================================
 
-Intensive Weekend - Intro to Programming using Python
+Intro to Programming using Python taught by Kai Austin and Jimmy Gozal 
+
+Le website: https://developerKit.github.io 
